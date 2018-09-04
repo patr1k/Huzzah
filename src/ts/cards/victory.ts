@@ -1,0 +1,4 @@
+interface Victory
+{
+    getPoints(): number;
+}

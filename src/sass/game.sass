@@ -1,0 +1,19 @@
+@import base
+
+body
+  margin: 0
+  padding: 0
+
+div.card
+  position: absolute
+  width: 118px
+  height: 200px
+  +border-radius(4px)
+  background:
+    position: center
+    repeat: no-repeat
+    size: cover
+
+  @each $card in $card-list
+    &.card-#{to_lower_case($card)}
+      background-image: url('../img/cards/#{$card}.jpg')

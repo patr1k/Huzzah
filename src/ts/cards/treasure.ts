@@ -1,0 +1,4 @@
+interface Treasure
+{
+    getValue(): number;
+}

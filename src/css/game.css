@@ -1,0 +1,146 @@
+/* line 3, ../sass/game.sass */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 7, ../sass/game.sass */
+div.card {
+  position: absolute;
+  width: 118px;
+  height: 200px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* line 18, ../sass/game.sass */
+div.card.card-adventurer {
+  background-image: url("../img/cards/Adventurer.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-bureaucrat {
+  background-image: url("../img/cards/Bureaucrat.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-cellar {
+  background-image: url("../img/cards/Cellar.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-chancellor {
+  background-image: url("../img/cards/Chancellor.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-chapel {
+  background-image: url("../img/cards/Chapel.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-copper {
+  background-image: url("../img/cards/Copper.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-councilroom {
+  background-image: url("../img/cards/CouncilRoom.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-curse {
+  background-image: url("../img/cards/Curse.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-duchy {
+  background-image: url("../img/cards/Duchy.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-estate {
+  background-image: url("../img/cards/Estate.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-feast {
+  background-image: url("../img/cards/Feast.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-festival {
+  background-image: url("../img/cards/Festival.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-gardens {
+  background-image: url("../img/cards/Gardens.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-gold {
+  background-image: url("../img/cards/Gold.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-laboratory {
+  background-image: url("../img/cards/Laboratory.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-library {
+  background-image: url("../img/cards/Library.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-market {
+  background-image: url("../img/cards/Market.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-militia {
+  background-image: url("../img/cards/Militia.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-mine {
+  background-image: url("../img/cards/Mine.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-moat {
+  background-image: url("../img/cards/Moat.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-moneylender {
+  background-image: url("../img/cards/Moneylender.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-province {
+  background-image: url("../img/cards/Province.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-remodel {
+  background-image: url("../img/cards/Remodel.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-silver {
+  background-image: url("../img/cards/Silver.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-smithy {
+  background-image: url("../img/cards/Smithy.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-spy {
+  background-image: url("../img/cards/Spy.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-thief {
+  background-image: url("../img/cards/Thief.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-throneroom {
+  background-image: url("../img/cards/ThroneRoom.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-village {
+  background-image: url("../img/cards/Village.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-witch {
+  background-image: url("../img/cards/Witch.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-woodcutter {
+  background-image: url("../img/cards/Woodcutter.jpg");
+}
+/* line 18, ../sass/game.sass */
+div.card.card-workshop {
+  background-image: url("../img/cards/Workshop.jpg");
+}
